@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+# dependencies
+/escola/node_modules
+/escola/.pnp
+/escola/.pnp.js
+
+# testing
+/escola/coverage
+
+# production
+/escola/build
+
+# misc
+/escola/.DS_Store
+/escola/.env.local
+/escola/.env.development.local
+/escola/.env.test.local
+/escola/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/listatarefas
+/reactbase
